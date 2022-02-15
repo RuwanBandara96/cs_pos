@@ -1,0 +1,15 @@
+D:\GroupProject\POS\POS\POS\bin\Debug\netcoreapp3.1\POS.exe
+D:\GroupProject\POS\POS\POS\bin\Debug\netcoreapp3.1\POS.deps.json
+D:\GroupProject\POS\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.json
+D:\GroupProject\POS\POS\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.dev.json
+D:\GroupProject\POS\POS\POS\bin\Debug\netcoreapp3.1\POS.dll
+D:\GroupProject\POS\POS\POS\bin\Debug\netcoreapp3.1\POS.pdb
+D:\GroupProject\POS\POS\POS\obj\Debug\netcoreapp3.1\POS.csprojAssemblyReference.cache
+D:\GroupProject\POS\POS\POS\obj\Debug\netcoreapp3.1\POS.Form1.resources
+D:\GroupProject\POS\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.GenerateResource.cache
+D:\GroupProject\POS\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfoInputs.cache
+D:\GroupProject\POS\POS\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfo.cs
+D:\GroupProject\POS\POS\POS\obj\Debug\netcoreapp3.1\POS.csproj.CoreCompileInputs.cache
+D:\GroupProject\POS\POS\POS\obj\Debug\netcoreapp3.1\POS.dll
+D:\GroupProject\POS\POS\POS\obj\Debug\netcoreapp3.1\POS.pdb
+D:\GroupProject\POS\POS\POS\obj\Debug\netcoreapp3.1\POS.genruntimeconfig.cache
