@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GroupProject\\POS\\POS\\POS\\POS.csproj": {}
+    "D:\\vs\\newPos\\POS\\POS.csproj": {}
   },
   "projects": {
-    "D:\\GroupProject\\POS\\POS\\POS\\POS.csproj": {
+    "D:\\vs\\newPos\\POS\\POS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GroupProject\\POS\\POS\\POS\\POS.csproj",
+        "projectUniqueName": "D:\\vs\\newPos\\POS\\POS.csproj",
         "projectName": "POS",
-        "projectPath": "D:\\GroupProject\\POS\\POS\\POS\\POS.csproj",
-        "packagesPath": "C:\\Users\\Ruwan Bandara\\.nuget\\packages\\",
-        "outputPath": "D:\\GroupProject\\POS\\POS\\POS\\obj\\",
+        "projectPath": "D:\\vs\\newPos\\POS\\POS.csproj",
+        "packagesPath": "C:\\Users\\Gayantha\\.nuget\\packages\\",
+        "outputPath": "D:\\vs\\newPos\\POS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ruwan Bandara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gayantha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,6 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -55,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
